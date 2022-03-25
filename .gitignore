@@ -130,4 +130,4 @@ dmypy.json
 
 # Large Data files
 data/
-output/data/
+output/
